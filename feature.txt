@@ -1,0 +1,5 @@
+i have learnt how to use git and github
+learnt how version control works when using git
+learnt collaboration, pull request, push request
+learnt how to work together or collaborate in almost in real time
+created and published webpage to github
