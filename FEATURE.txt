@@ -1,0 +1,2 @@
+i have the basics of hmtl and the important features such 
+the html opening and closing tags, the header tage and the body tag.
