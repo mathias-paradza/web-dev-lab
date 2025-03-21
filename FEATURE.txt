@@ -1,2 +1,4 @@
+i have learnt to install, use github, push file and how to create pull requests. 
+collaborations is one other important thing i have learntin this lab.
 i have the basics of hmtl and the important features such 
 the html opening and closing tags, the header tage and the body tag.
